@@ -1,3 +1,3 @@
 # UDP-FLOOD
 
-python3 udp.py
+python2 udp.py
